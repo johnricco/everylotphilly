@@ -1,0 +1,12 @@
+---
+streetview: AIzaSyB8ffjUcfo_5m59Kk8_6NKdg03z8Rz2WGI
+
+apps:
+    everylotphilly:
+        consumer_key: TqeMOdPKXAvemvLnU75D2y8DQ
+        consumer_secret: DELuEWxDGZJ5JqVGwe15z8il3kwuoLCJyYwj7vmXGKvKxb9gSZ
+users:
+    everylotphilly:
+        key: 785659405412945920-xCwfUO7znneNqCIHYryyBalaehW9XD6
+        secret: 4isXivTsBRvYQGnLx9Z3AWLEWVLr3blkkuWaKTKrYzQcE
+        app: everylotphilly
